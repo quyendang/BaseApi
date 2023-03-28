@@ -1,4 +1,4 @@
-# Sử dụng
+# Sử dụng để viết hàm gọi API chuẩn, sử dung Alamorefile
 
 ## Cài Đặt
 - Download về sau đó giải nén và kéo vào project
